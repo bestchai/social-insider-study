@@ -3,7 +3,7 @@ name: Social Insider Study
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://example.com
@@ -19,10 +19,9 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+  facebook: wali.usmani.9
+  email: waliusmani@gmail.com
+  github: arcaneiceman
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
