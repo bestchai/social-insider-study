@@ -13,7 +13,7 @@ A complete list of survey material can be downloaded [here.](https://github.com/
 
 ## Study 1: Prevalence of Social Insider Attack on Facebook
 
-We conducted a list experiment to explore the prevalence of social insider attacks on Facebook.
+We conducted a list experiment to explore the prevalence of social insider attacks on Facebook. Details on our methodology can be found in our paper.
 
 ### Pilot Study
 
@@ -47,11 +47,11 @@ We collected and performed thematic analysis on a total of 45 stories reporting 
 
 The codebook developed for the stories collected :
 
-<iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/1ClUBO5SKxogBf6PdIKhwMLdG9jOoVC65NA0-Ykj_-ks/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://docs.google.com/spreadsheets/d/1ClUBO5SKxogBf6PdIKhwMLdG9jOoVC65NA0-Ykj_-ks/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 We also developled a co-occurence table for one of the coders :
 
-<iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/1jKZ9CcnlwUb4nL3x25x89lueJlHMMEnWC3BmwH4l3GI/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://docs.google.com/spreadsheets/d/1jKZ9CcnlwUb4nL3x25x89lueJlHMMEnWC3BmwH4l3GI/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 
 ## Credits
