@@ -53,6 +53,24 @@ We also developled a co-occurence table for one of the coders :
 
 <iframe width="800" height="500" src="https://docs.google.com/spreadsheets/d/1jKZ9CcnlwUb4nL3x25x89lueJlHMMEnWC3BmwH4l3GI/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
+## Publicity
+
+We have received considerable new coverage for our work:
+
+* https://ca.news.yahoo.com/beware-friends-family-secretly-snooping-110000093.html
+* https://uk.news.yahoo.com/turns-1-5-us-secretly-205615750.html
+* http://www.timeslive.co.za/sundaytimes/lifestyle/2017/01/20/1-in-5-of-us-secretly-logs-in-to-our-friends-Facebook-accounts1
+* http://www.cbc.ca/news/technology/facebook-friends-family-insider-attack-secret-snooping-ubc-1.3943729
+* http://www.cbc.ca/news/canada/british-columbia/facebook-attack-snoop-ubc-study-1.3942956
+* http://www.metronews.ca/news/vancouver/2017/01/19/1-in-5-facebook-users-have-snooped-on-a-friends-account-ubc.html
+* http://vancouversun.com/technology/internet/worried-about-hackers-look-to-your-facebook-friends-ubc-study-says
+* http://www.theprovince.com/technology/internet/worried+about+hackers+look+your+facebook+friends/12741876/story.html
+* http://www.voiceonline.com/one-in-five-adults-secretly-access-their-friends-facebook-accounts/
+* http://www.mailonsunday.co.uk/sciencetech/article-4137650/Study-finds-1-5-adults-access-Facebook.html
+* http://www.hindustantimes.com/sex-and-relationships/1-in-5-adults-snoop-on-the-fb-accounts-of-their-partners-family-or-friends/story-vgAiM0jSHvtqAknsPUnkLI.html
+* http://dailyhive.com/calgary/facebook-hacking-study-january-2017
+* http://www.thehindu.com/sci-tech/technology/internet/One-in-five-adults-secretly-access-partners%E2%80%99-Facebook-accounts/article17067307.ece
+* http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333
 
 ## Credits
 
