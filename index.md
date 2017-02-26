@@ -72,6 +72,10 @@ We have received considerable new coverage for our work:
 * http://www.thehindu.com/sci-tech/technology/internet/One-in-five-adults-secretly-access-partners%E2%80%99-Facebook-accounts/article17067307.ece
 * http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333
 
+We also did a radio interview:
+
+* https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0
+
 ## Credits
 
 The following authors were part of this research :
