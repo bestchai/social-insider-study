@@ -11,23 +11,7 @@ Facebook accounts are secured against unauthorized access through passwords and 
 
 A complete list of survey material can be downloaded [here.](https://github.com/bestchai/social-insider-study/blob/gh-pages/study_data/survey_material.pdf)
 
-## Study 1: Prevalence of Social Insider Attack on Facebook
-
-We conducted a list experiment to explore the prevalence of social insider attacks on Facebook. Details on our methodology can be found in our paper.
-
-### Pilot Study
-
-First, we performed a pilot for item selection. Raw data (with exclusion criteria, details in the paper) can be downloaded [here.](https://github.com/bestchai/social-insider-study/blob/gh-pages/study_data/prevalencestudy_pilot_responses_exclusion_with_time.csv)
-
-### Prevalence Study
-
-We had 2 treatment groups and 1 control group for the list experiment.
-
-Control group's raw results (after filtering) can be accessed [here.](https://github.com/bestchai/social-insider-study/blob/gh-pages/study_data/prevalencestudy_control_filtered_responses.csv)
-
-Treatment group 1 (referenced in the paper as Treatment P) was the list experiment where the sensitive statement was for **perpetrators** of social insider attacks. Raw results (after filtering) can be accessed [here.](https://github.com/bestchai/social-insider-study/blob/gh-pages/study_data/prevalencestudy_treatment1_filtered_responses.csv) 
-
-Treatment group 2 (referenced in the paper as Treatment V) was the list experiment where the sensitive statement was for **victims** of social insider attacks. Raw results (after filtering) can be accessed [here.](https://github.com/bestchai/social-insider-study/blob/gh-pages/study_data/prevalencestudy_treatment2_filtered_responses.csv) 
+Raw results for the study have been redacted to ensure privacy of the participants.
 
 ## Study 2: Dimensions of Social Insider Attacks
 
@@ -57,26 +41,28 @@ We also developled a co-occurence table for one of the coders :
 
 We have received considerable new coverage for our work:
 
-* https://ca.news.yahoo.com/beware-friends-family-secretly-snooping-110000093.html
-* https://uk.news.yahoo.com/turns-1-5-us-secretly-205615750.html
-* http://www.timeslive.co.za/sundaytimes/lifestyle/2017/01/20/1-in-5-of-us-secretly-logs-in-to-our-friends-Facebook-accounts1
-* http://www.cbc.ca/news/technology/facebook-friends-family-insider-attack-secret-snooping-ubc-1.3943729
-* http://www.cbc.ca/news/canada/british-columbia/facebook-attack-snoop-ubc-study-1.3942956
-* http://www.metronews.ca/news/vancouver/2017/01/19/1-in-5-facebook-users-have-snooped-on-a-friends-account-ubc.html
-* http://vancouversun.com/technology/internet/worried-about-hackers-look-to-your-facebook-friends-ubc-study-says
-* http://www.theprovince.com/technology/internet/worried+about+hackers+look+your+facebook+friends/12741876/story.html
-* http://www.voiceonline.com/one-in-five-adults-secretly-access-their-friends-facebook-accounts/
-* http://www.mailonsunday.co.uk/sciencetech/article-4137650/Study-finds-1-5-adults-access-Facebook.html
-* http://www.hindustantimes.com/sex-and-relationships/1-in-5-adults-snoop-on-the-fb-accounts-of-their-partners-family-or-friends/story-vgAiM0jSHvtqAknsPUnkLI.html
-* http://dailyhive.com/calgary/facebook-hacking-study-january-2017
-* http://www.thehindu.com/sci-tech/technology/internet/One-in-five-adults-secretly-access-partners%E2%80%99-Facebook-accounts/article17067307.ece
-* http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333
+* Yahoo Canada [link](https://ca.news.yahoo.com/beware-friends-family-secretly-snooping-110000093.html) [pdf]()
+* Yahoo UK [link](https://uk.news.yahoo.com/turns-1-5-us-secretly-205615750.html) [pdf]()
+* The Times [link](http://www.timeslive.co.za/sundaytimes/lifestyle/2017/01/20/1-in-5-of-us-secretly-logs-in-to-our-friends-Facebook-accounts1) [pdf]()
+* CBC Canada [link](http://www.cbc.ca/news/technology/facebook-friends-family-insider-attack-secret-snooping-ubc-1.3943729) [pdf](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Beware!%20Friends%2C%20family%2C%20secretly%20snooping%20on%20your%20Facebook%20account%20-%20Technology%20%26%20Science%20-%20CBC%20News.pdf)
+* CBC British Columbia [link](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Facebook%20hack%20attacks_%20The%20threat%20is%20closer%20than%20you%20think%2C%20says%20UBC%20researcher%20-%20British%20Columbia%20-%20CBC%20News.pdf)
+* Metro News [link](http://www.metronews.ca/news/vancouver/2017/01/19/1-in-5-facebook-users-have-snooped-on-a-friends-account-ubc.html) [pdf](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/1%20in%205%20Facebook%20users%20have%20snooped%20on%20a%20friend's%20account_%20UBC%20study%20_%20Metro%20Vancouver.pdf)
+* Vancouver Sun [link](http://vancouversun.com/technology/internet/worried-about-hackers-look-to-your-facebook-friends-ubc-study-says) [pdf]()
+* The Province [link](http://www.theprovince.com/technology/internet/worried+about+hackers+look+your+facebook+friends/12741876/story.html) [pdf]()
+* Voice Online [link](http://www.voiceonline.com/one-in-five-adults-secretly-access-their-friends-facebook-accounts/) [pdf]()
+* Daily Mail [link](http://www.mailonsunday.co.uk/sciencetech/article-4137650/Study-finds-1-5-adults-access-Facebook.html) [pdf]()
+* Hindustan Times [link](http://www.hindustantimes.com/sex-and-relationships/1-in-5-adults-snoop-on-the-fb-accounts-of-their-partners-family-or-friends/story-vgAiM0jSHvtqAknsPUnkLI.html) [pdf]()
+* Express Tribue [link](https://tribune.com.pk/story/1304321/one-five-adults-secretly-access-partners-facebook-accounts/) [pdf]()
+* Daily Hive [link](http://dailyhive.com/calgary/facebook-hacking-study-january-2017) [pdf](1 in 5 adults secretly access their friends’ Facebook accounts, study _ Daily Hive Calgary.pdf)
+* The Hindu [link](http://www.thehindu.com/sci-tech/technology/internet/One-in-five-adults-secretly-access-partners%E2%80%99-Facebook-accounts/article17067307.ece) [pdf]()
+* Business Tech [link](http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333) [pdf](1 in 5 of us has secretly accessed other people's Facebook accounts - BT.pdf)
 
 We also did a radio interview:
 
-* https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0
+* At Snow Crash Radio [link](https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0)
 
 ## Credits
+
 
 The following authors were part of this research :
 
