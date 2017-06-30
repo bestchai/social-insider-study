@@ -45,7 +45,7 @@ We have received considerable new coverage for our work:
 * Yahoo UK [[link]](https://uk.news.yahoo.com/turns-1-5-us-secretly-205615750.html) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Turns%20out%2C%201%20in%205%20of%20us%20has%20secretly%20accessed%20our%20friends%E2%80%99%20Facebook%20accounts.pdf)
 * The Times [[link]](http://www.timeslive.co.za/sundaytimes/lifestyle/2017/01/20/1-in-5-of-us-secretly-logs-in-to-our-friends-Facebook-accounts1) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/SUNDAY%20TIMES%20-%201%20in%205%20of%20us%20secretly%20logs%20in%20to%20our%20friends'%20Facebook%20accounts.pdf)
 * CBC Canada [[link]](http://www.cbc.ca/news/technology/facebook-friends-family-insider-attack-secret-snooping-ubc-1.3943729) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Beware!%20Friends%2C%20family%2C%20secretly%20snooping%20on%20your%20Facebook%20account%20-%20Technology%20%26%20Science%20-%20CBC%20News.pdf)
-* CBC British Columbia [[link]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Facebook%20hack%20attacks_%20The%20threat%20is%20closer%20than%20you%20think%2C%20says%20UBC%20researcher%20-%20British%20Columbia%20-%20CBC%20News.pdf)
+* CBC British Columbia [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Facebook%20hack%20attacks_%20The%20threat%20is%20closer%20than%20you%20think%2C%20says%20UBC%20researcher%20-%20British%20Columbia%20-%20CBC%20News.pdf)
 * Metro News [[link]](http://www.metronews.ca/news/vancouver/2017/01/19/1-in-5-facebook-users-have-snooped-on-a-friends-account-ubc.html) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/1%20in%205%20Facebook%20users%20have%20snooped%20on%20a%20friend's%20account_%20UBC%20study%20_%20Metro%20Vancouver.pdf)
 * Vancouver Sun [[link]](http://vancouversun.com/technology/internet/worried-about-hackers-look-to-your-facebook-friends-ubc-study-says) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Facebook%20hackers%20most%20likely%20to%20be%20friends%2C%20UBC%20study%20says%20_%20Vancouver%20Sun.pdf)
 * The Province [[link]](http://www.theprovince.com/technology/internet/worried+about+hackers+look+your+facebook+friends/12741876/story.html) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/One%20in%20Five%20Adults%20Secretly%20Access%20their%20partner%E2%80%99s%20Facebook.pdf)
@@ -58,8 +58,9 @@ We have received considerable new coverage for our work:
 * Business Tech [[link]](http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333) [[pdf]](1 in 5 of us has secretly accessed other people's Facebook accounts - BT.pdf)
 
 We also did a radio interview:
-
-* At Snow Crash Radio [[link]](https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0)
+ 
+* Roundhouse Radio, January 24, 2017. [[link]](http://cirh.streamon.fm/listen-pl-7555)
+* Snow Crash Radio, January 22 2017. [[link]](https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0)
 
 ## Credits
 
