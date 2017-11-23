@@ -29,17 +29,17 @@ To minimize priming participants, we avoided using charged terms in survey adver
 
 We collected and performed thematic analysis on a total of 45 stories reporting social insider attacks. Stories had min/mean/max word count of 92/263/527 from which three researchers inductively created and refined a codebook, until saturation was reached at 35 stories. The final codebook had a total of 71 codes across six main themes (perpetrators and victims, premeditation, attack vector, attack variants, attack aftermath,and motivation). A batch of ten more stories was collected from which inter-rater reliability for two independent coders was calculated (Cohen's kappa k=0.95).
 
-The codebook developed for the stories collected :
+The codebook developed for the collected stories:
 
 <iframe width="800" height="500" src="https://docs.google.com/spreadsheets/d/1ClUBO5SKxogBf6PdIKhwMLdG9jOoVC65NA0-Ykj_-ks/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
-We also developled a co-occurence table for one of the coders :
+We also developled a co-occurence table for one of the coders:
 
 <iframe width="800" height="500" src="https://docs.google.com/spreadsheets/d/1jKZ9CcnlwUb4nL3x25x89lueJlHMMEnWC3BmwH4l3GI/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 ## Publicity
 
-We have received considerable new coverage for our work:
+We have received considerable news coverage of our work:
 
 * Yahoo Canada [[link]](https://ca.news.yahoo.com/beware-friends-family-secretly-snooping-110000093.html) [[pdf]]()
 * Yahoo UK [[link]](https://uk.news.yahoo.com/turns-1-5-us-secretly-205615750.html) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/Turns%20out%2C%201%20in%205%20of%20us%20has%20secretly%20accessed%20our%20friends%E2%80%99%20Facebook%20accounts.pdf)
@@ -57,15 +57,14 @@ We have received considerable new coverage for our work:
 * The Hindu [[link]](http://www.thehindu.com/sci-tech/technology/internet/One-in-five-adults-secretly-access-partners%E2%80%99-Facebook-accounts/article17067307.ece) [[pdf]](https://github.com/bestchai/social-insider-study/blob/gh-pages/new_coverage/One%20in%20five%20adults%20secretly%20access%20partners%E2%80%99%20Facebook%20accounts%20-%20The%20Hindu.pdf)
 * Business Tech [[link]](http://home.bt.com/tech-gadgets/tech-news/1-in-5-of-us-has-secretly-accessed-other-peoples-facebook-accounts-11364138209333) [[pdf]](1 in 5 of us has secretly accessed other people's Facebook accounts - BT.pdf)
 
-We also did a radio interview:
+We also did two radio interviews:
  
 * Roundhouse Radio, January 24, 2017. [[link]](http://cirh.streamon.fm/listen-pl-7555)
 * Snow Crash Radio, January 22 2017. [[link]](https://audioboom.com/posts/5523928-hacking-an-inauguration-cyber-news-digest-social-insider-attacks-on-facebook-week-in-review-for-january-22-2017?t=0)
 
 ## Credits
 
-
-The following authors were part of this research :
+Research team:
 
 * [Wali Ahmed Usmani](https://arcaneiceman.github.io)
 * [Diogo Marques](http://homepages.lasige.di.fc.ul.pt/~dmarques/)
